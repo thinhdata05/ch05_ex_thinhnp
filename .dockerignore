@@ -1,0 +1,8 @@
+*.md
+*.txt
+*.iml
+*.class
+*.log
+*.DS_Store
+target/
+.git/
